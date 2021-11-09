@@ -1,0 +1,5 @@
+[General]
+theme=We10XOS-dark
+
+[Applications]
+We10XOS-dark=dolphin
